@@ -34,12 +34,6 @@ const Home = () => {
           <Button image="/icons/play-icon.png" action="start" name="Jogar" />
           <Button image="/icons/config-icon.png" name="Configurações" />
         </div>
-
-        <div className="relative z-10 pt-3 flex justify-center items-center">
-          <span className="text-yellow-500 text-sm">
-            Criado por Harison Cleyton
-          </span>
-        </div>
       </section>
     </div>
   );

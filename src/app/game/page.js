@@ -50,12 +50,6 @@ const InGamePage = () => {
           </div>
 
           <QuizBoard />
-
-          <footer className="text-amber-400">
-            <a target="_blank" href="https://github.com/harisoncleytondev/">
-              Criado por Harison Cleyton
-            </a>
-          </footer>
         </section>
       </div>
     </div>
